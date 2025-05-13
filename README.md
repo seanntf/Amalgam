@@ -5,7 +5,7 @@
   <a href="https://nightly.link/rei-2/Amalgam/workflows/msbuild/master/Amalgamx64ReleasePDB.zip">
     <img src=".github/assets/pdb.png" alt="PDB" width="auto" height="auto">
   </a>
-  <a href="https://nightly.link/rei-2/Amalgam/workflows/msbuild/master/Amalgamx64ReleaseAVX2.zip">
+  <a href="https://nightly.link/seanntf/Amalgam/workflows/msbuild/master/Amalgamx64ReleaseAVX2.zip">
     <img src=".github/assets/download_avx2.png" alt="Download AVX2" width="auto" height="auto">
   </a>
   <a href="https://nightly.link/seanntf/Amalgam/workflows/msbuild/master/Amalgamx64ReleaseAVX2PDB.zip">
